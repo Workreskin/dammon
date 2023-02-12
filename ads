@@ -6,15 +6,16 @@
   "native_type":"admob",
   "reward_type": "admob",
 
-  "applovin_banner":"7dc036a95ab8e332",
-  "applovin_interstitial":"fe3acc809f3c87b1",
-  "applovin_reward":"ca-app-pub-4567",
-  "applovin_native":"ca-app-pub-3940256099942544/5354046379",
 
-  "facebook_banner":"ca-app-pub56099942",
-  "facebook_interstitial":"ca-app-pub-567",
-  "facebook_reward":"02786725c1e32509",
-  "facebook_native":"2f915319fb229ec4"
+  "applovin_banner":"0038d2dd137c8639",
+  "applovin_interstitial":"f2d7a3c9abbeab1f",
+  "applovin_reward":"6fa5dab0434e128d",
+  "applovin_native":"b43f5d6f63828a84",
+
+  "facebook_banner":"",
+  "facebook_interstitial":"",
+  "facebook_reward":"",
+  "facebook_native":""
 
 
 
